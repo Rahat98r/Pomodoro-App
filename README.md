@@ -1,7 +1,7 @@
 # Pomodoro App ⏳
 
 A minimal and user-friendly **Pomodoro Timer** built with React, designed to boost productivity using the 25/5 work-break cycle.  
-Deployed on [Vercel](https://pomodoro-app-psi-ruby.vercel.app/).
+Deployed on [Pomodoro App](https://pomodoro-app-psi-ruby.vercel.app/).
 
 ---
 
